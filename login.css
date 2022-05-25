@@ -1,0 +1,17 @@
+body{
+    background-image: url('Background/body.jpg'); 
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: bottom;
+}
+
+#loginn{
+    background-color: #797979;
+    opacity: 0.9;
+}
+
+.alert {
+    height: 40px;
+    line-height: 40px;
+    padding: 0px 15px;
+}

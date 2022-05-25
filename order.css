@@ -1,0 +1,89 @@
+#imageNav{
+    height: 20vh;
+    background-image: url('Background/mcdo.gif');
+    background-repeat: no-repeat;
+    background-size: contain;
+    filter: brightness(50%);
+}
+
+#navMed{
+    height: 100vh;
+    background-color: #2d2d2d;
+}
+
+#navSmall{
+    height: 20vh;
+    background-color: #2d2d2d;
+}
+
+#navLabel{
+    height: 8vh;
+    background-color: #272727;
+    text-align:center;
+    display:flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#labelss{
+    margin:auto;
+    color: white;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+#iconimg{
+    width: 7vh;
+}
+
+#mainpanel{
+    background-color: #E8EEEC;
+}
+
+#navButtons{
+    border-radius: 0.5;
+    height: 10vh;
+    background-color: rgb(231, 35, 35);
+}
+
+#navButton{
+    border-radius: 0.5;
+    height: 10vh;
+    background-color: rgb(231, 35, 35);
+}
+
+#topMain{
+    background-color: rgb(228, 228, 228);
+    height: 8vh;
+}
+#midMain{
+    background-color: #dadada;
+    height: 88vh;
+}
+#botMain{
+    background-color: #3e3e3e;
+    height: 4vh;
+}
+
+#titleTop{
+    font-size: 20px;
+}
+
+#counter{
+    color: white;
+    font-size: 50px;
+    font-weight: bold;
+    margin-left: 15px;
+}
+
+#counterLabel{
+    color: rgb(219, 219, 219);
+    font-size: 20px;
+    margin-left: 15px;
+}
+
+#bottomLabel{
+    color: rgb(219, 219, 219);
+    font-size: 10px;
+    margin-left: 15px;
+}
